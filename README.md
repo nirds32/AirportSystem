@@ -1,5 +1,5 @@
 # AirportSystem BY NIR ASSRAF
-Airport Departers and arrivels managment system Based on .NET Core - WPF application for client-side and ASP.NET for the server side which communicate with the client by SignalR service,  and save the information by Entity Framework into DB.
+Airport Departers and arrivels managment system Based on .NET Core - WPF application for client-side and ASP.NET for the server side which communicate with the client by SignalR service,  and save the information by Entity Framework into DB -SQL SERVER, Also Console Application app inside for lunching automatic flights(connected to the server).
 
 # EXTRACT AirportServer.rar
 # OPEN .sln file
